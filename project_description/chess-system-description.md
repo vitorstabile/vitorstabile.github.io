@@ -1,31 +1,34 @@
-## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Project description:** 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+A chess system written in Java
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 1. Using OPP topics like:
 
-### 2. Assess assumptions on which statistical inference will be based
+- Layers pattern
+- Class
+- Constructors
+- Encapsulation / Access Modifiers
+- ToString (Object / overriding)
+- Enumerations
+- Static members
+- Downcasting
+- Inheritance
+- Abstract method
+- Polymorphism
+- Exceptions
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Printing Board
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/chess-system-images/Chess_printing_board.png?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 3. Using UI Git Console
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/chess-system-images/Start_application_command_git.png?raw=true"/> 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 4. Each piece have a different action
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/chess-system-images/Knight_White_Play.gif?raw=true"/>
+
+For more details see [Chess System in Java](https://github.com/vitorstabile/chess-system-java.git).
