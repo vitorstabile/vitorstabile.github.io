@@ -4,12 +4,12 @@
 
 ### Java Projects 
 
-[Chess System in Java](project_description/chess-system-description.md)
+[Chess System in Java](project_description/chess-system-description.md)<br>
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/chess-system-images/Peon_White_Play.gif?raw=true"/>
 
 ---
 
-[Desktop app in Java](project_description/workshop-javafx-jdbc-description.md)
+[Desktop app in Java](project_description/workshop-javafx-jdbc-description.md)<br>
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/workshop-javafx-jdbc-images/workshop-javafx-jdbc-list.gif?raw=true"/>
 
 ---
