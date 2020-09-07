@@ -4,8 +4,8 @@
 
 ### Java Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chess System in Java](/sample_page)
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/chess-system-images/Peon_White_Play.gif?raw=true"/>
 
 ---
 
