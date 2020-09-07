@@ -5,6 +5,7 @@
 ### Java Projects 
 
 [Chess System in Java](project_description/chess-system-description.md)
+<br>
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/chess-system-images/Peon_White_Play.gif?raw=true"/>
 
 ---
