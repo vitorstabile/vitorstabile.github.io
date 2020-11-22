@@ -1,21 +1,21 @@
 **Project description:** 
 
-A spotify web page clone!
+A responsive spotify web page clone!
 
-### 1. The Domain Model:
+### 1. The Tools:
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/workshop-javafx-jdbc-images/OPP_Domain_Model_Workshop_JavaFX_JDBC.png?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/HTML_CSS_JS_BOOTSTRAP.jpg?raw=true"/>
 
-### 1. The Relational Model:
+### 2. The Main Page:
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/workshop-javafx-jdbc-images/Relational_Domain_Model_Workshop_JavaFX_JDBC.png?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-1.gif?raw=true"/>
 
-### 3. A MVC application
+### 3. The Full Page:
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/workshop-javafx-jdbc-images/MVC_Model_Workshop_JavaFX_JDBC.png?raw=true"/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-2.gif?raw=true"/> 
 
-### 4. A full CRUD application
+### 4. A Responsive Web Page for Mobile Devices
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images//workshop-javafx-jdbc-images/workshop-javafx-jdbc-new.gif?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-2.gif?raw=true"/> 
 
-For more details see [Desktop app in Java](https://github.com/vitorstabile/workshop-javafx-jdbc.git).
+For more details see [Spotify Web Page Clone](https://github.com/vitorstabile/project-spotify-clone.git).
