@@ -12,6 +12,6 @@ A responsive spotify web page clone!
 
 ### 3. A Responsive Web Page for Mobile Devices
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-2.gif?raw=true"/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-3.gif?raw=true"/> 
 
 For more details see [Spotify Web Page Clone](https://github.com/vitorstabile/project-spotify-clone.git).
