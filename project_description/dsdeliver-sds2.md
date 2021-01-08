@@ -1,17 +1,22 @@
 **Project description:** 
 
-A responsive spotify web page clone!
+A FullStack Project that consists of a system for registering and delivering orders.
 
 ### 1. The Tools:
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/HTML_CSS_JS_BOOTSTRAP.jpg?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/java-spring-React.png?raw=true"/>
 
-### 2. The Page:
+### 2. Make your order:
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-2.gif?raw=true"/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim1.gif?raw=true"/> 
 
-### 3. A Responsive Web Page for Mobile Devices
+### 3. Select the products
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-3.gif?raw=true"/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim2.gif?raw=true"/>
 
-For more details see [Spotify Web Page Clone](https://github.com/vitorstabile/project-spotify-clone.git).
+### 4. Enter your address
+
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim2.gif?raw=true"/> 
+
+
+For more details see [Order-Delivery App](https://github.com/vitorstabile/dsdeliver-sds2).
