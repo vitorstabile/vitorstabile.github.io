@@ -16,7 +16,8 @@ A FullStack Project that consists of a system for registering and delivering ord
 
 ### 4. Enter your address
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim2.gif?raw=true"/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim3.gif?raw=true"/> 
 
+Access the App: https://vitorgarciasds2.netlify.app/
 
 For more details see [Order-Delivery App](https://github.com/vitorstabile/dsdeliver-sds2).
