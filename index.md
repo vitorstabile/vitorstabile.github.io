@@ -2,7 +2,7 @@
 
 ---
 
-### Java Projects 
+### Backend Projects
 
 [Chess System in Java](project_description/chess-system-description.md)<br>
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/chess-system-images/Peon_White_Play.gif?raw=true"/>
@@ -14,7 +14,7 @@
 
 ---
 
-### Web Projects 
+### Frontend Projects 
 
 [Spotify Webpage Clone](project_description/project-spotify-clone.md)<br>
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/project-spotify-clone/spotify-project-1.gif?raw=true"/> 
