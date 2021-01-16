@@ -1,6 +1,6 @@
 **Project description:** 
 
-A FullStack Project that consists of a system for registering and delivering orders.
+A FullStack Project that consists of a system for registering orders.
 
 ### 1. The Tools:
 
