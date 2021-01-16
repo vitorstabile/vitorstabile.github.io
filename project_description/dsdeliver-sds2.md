@@ -4,7 +4,7 @@ A FullStack Project that consists of a system for registering orders.
 
 ### 1. The Tools:
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/java-spring-React.png?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/java-spring-reactjs.png?raw=true"/>
 
 ### 2. Make your order:
 
