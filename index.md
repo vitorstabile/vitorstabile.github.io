@@ -23,7 +23,7 @@
 
 ### Fullstack Projects 
 
-[Order/Deliver App](project_description/dsdeliver-sds2.md)<br>
+[Order Web App](project_description/dsdeliver-sds2.md)<br>
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim4.gif?raw=true"/> 
 
 ---
