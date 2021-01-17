@@ -28,5 +28,10 @@
 
 ---
 
+[Delivery Mobile App](project_description/dsdeliver-sds2-mobile.md)<br>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/MakeOrder_Trim.gif?raw=true"/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
