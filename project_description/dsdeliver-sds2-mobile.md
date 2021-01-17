@@ -14,10 +14,8 @@ A FullStack Project that consists of a system for delivering orders.
 
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim2.gif?raw=true"/>
 
-### 4. Push "Navigation" to acess the google maps and delivery:
+### 4. Push "Navigation" to access the google maps:
 
 <img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim3.gif"/> 
-
-Access the [Web App](https://vitorgarciasds2.netlify.app/)
 
 For more details see [Delivery Mobile App](https://github.com/vitorstabile/dsdeliver-sds2).
