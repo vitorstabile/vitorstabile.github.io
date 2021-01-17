@@ -20,4 +20,4 @@ A FullStack Project that consists of a system for registering orders.
 
 Access the [Web App](https://vitorgarciasds2.netlify.app/)
 
-For more details see [Order-Delivery App](https://github.com/vitorstabile/dsdeliver-sds2).
+For more details see [Order Web App](https://github.com/vitorstabile/dsdeliver-sds2).
