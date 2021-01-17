@@ -1,1 +1,23 @@
-a
+**Project description:** 
+
+A FullStack Project that consists of a system for delivering orders.
+
+### 1. The Tools:
+
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/java-spring-reactnative.png?raw=true"/>
+
+### 2. Make your order in [Web App](https://vitorgarciasds2.netlify.app/):
+
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/MakeOrder_Trim.gif?raw=true"/> 
+
+### 3. Choose the order to delivery:
+
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim2.gif?raw=true"/>
+
+### 4. Push "Navigation" to acess the google maps and delivery:
+
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim3.gif"/> 
+
+Access the [Web App](https://vitorgarciasds2.netlify.app/)
+
+For more details see [Delivery Mobile App](https://github.com/vitorstabile/dsdeliver-sds2).
