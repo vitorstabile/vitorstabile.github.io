@@ -29,7 +29,7 @@
 ---
 
 [Delivery Mobile App](project_description/dsdeliver-sds2-mobile.md)<br>
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/MakeOrder_Trim.gif?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim_main.gif?raw=true"/>
 
 ---
 
