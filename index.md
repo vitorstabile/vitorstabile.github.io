@@ -33,5 +33,10 @@
 
 ---
 
+[Sales Dashboard App](project_description/dsvendas-sds3.md)<br>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsvendas-sds3/DS_vendas-1.gif?raw=true" width=800 height=450/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
