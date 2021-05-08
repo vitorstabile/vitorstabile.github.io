@@ -16,7 +16,7 @@ A FullStack Project that consists of a Sales Dashboard.
 
 ### 4. A Complete Dashboard
 
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsvendas-sds3/DS_vendas-2.gif?raw=true" width=450 height=300/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsvendas-sds3/DS_vendas-2.gif?raw=true" width=800 height=450/> 
 
 Access the [Web App](https://vitorgarciasds3.netlify.app/)
 
