@@ -24,12 +24,12 @@
 ### Fullstack Projects 
 
 [Order Web App](project_description/dsdeliver-sds2.md)<br>
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim4.gif?raw=true"/> 
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2/DSDelivery_Trim4.gif?raw=true" width=800 height=450/> 
 
 ---
 
 [Delivery Mobile App](project_description/dsdeliver-sds2-mobile.md)<br>
-<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim_main.gif?raw=true"/>
+<img src="https://github.com/vitorstabile/vitorstabile.github.io/blob/master/images/dsdeliver-sds2-mobile/Deliver_Trim_main.gif?raw=true" width=360 height=800/>
 
 ---
 
